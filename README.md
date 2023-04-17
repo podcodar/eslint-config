@@ -1,4 +1,4 @@
-# PodCodar EsLint Configs
+# PodCodar Eslint Configs
 
 This projects create some eslint configuration shared across @PodCodar project's.
 
