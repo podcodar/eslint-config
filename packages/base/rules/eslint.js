@@ -16,5 +16,7 @@ module.exports = {
     "quotes": ["error", "double"],
     "semi": ["error", "always"],
     "no-multiple-empty-lines": ["error", { "max": 1 }],
+    "array-element-newline": ["error", { "minItems": 3 }],
+    "array-bracket-newline": ["error", { "minItems": 3 }],
   }
 };
