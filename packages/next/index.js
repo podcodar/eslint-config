@@ -1,8 +1,5 @@
 module.exports = {
-  extends: ["next", "turbo", "prettier"],
-  rules: {
-    "@next/next/no-html-link-for-pages": "off",
-  },
+  extends: ["@base/eslint-config-base", "next", "./rules/next"],
   parserOptions: {
     babelOptions: {
       presets: [require.resolve("next/babel")],

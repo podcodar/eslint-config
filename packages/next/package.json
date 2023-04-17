@@ -1,0 +1,14 @@
+{
+  "name": "@podcodar/eslint-config-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@podcodar/eslint-config-base": "workspace:*",
+    "eslint-config-next": "latest",
+    "next": "latest"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
