@@ -1,5 +1,12 @@
 # @podcodar/eslint-config-base
 
+## 1.1.0
+
+### Minor Changes
+
+- Add array rules
+- Add array rules
+
 ## 1.0.1
 
 ### Patch Changes

@@ -1,5 +1,18 @@
 # @podcodar/eslint-config-next
 
+## 1.1.0
+
+### Minor Changes
+
+- Add array rules
+- Add array rules
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+  - @podcodar/eslint-config-base@1.1.0
+
 ## 1.0.1
 
 ### Patch Changes
