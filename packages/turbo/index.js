@@ -1,4 +1,4 @@
 module.exports = {
-  extends: ["@base/eslint-config-next", "turbo"],
+  extends: ["@podcodar/eslint-config-next", "turbo"],
   rules: {},
 };
