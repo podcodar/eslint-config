@@ -8,7 +8,7 @@ This uses Turborepo.
 
 ```sh
 @podcodar/eslint-config-base  # base preset (with prettier)
-@podcodar/eslint-config-react # next.js
+@podcodar/eslint-config-react # react
 @podcodar/eslint-config-next  # next.js
 @podcodar/eslint-config-turbo # turbo repo
 ```
