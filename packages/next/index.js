@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    "@podcodar/eslint-config-base",
+    "@podcodar/eslint-config-react",
     "next",
     "next/core-web-vitals",
     "./rules/next"
