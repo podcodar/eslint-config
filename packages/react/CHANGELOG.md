@@ -1,5 +1,46 @@
 # @podcodar/eslint-config-react
 
+## 1.4.1
+
+### Patch Changes
+
+- improve react rules
+- Updated dependencies
+  - @podcodar/eslint-config-base@1.4.1
+
+## 1.4.0
+
+### Minor Changes
+
+- add react config
+
+### Patch Changes
+
+- Updated dependencies
+  - @podcodar/eslint-config-base@1.4.0
+
+## 1.3.0
+
+### Minor Changes
+
+- add react support
+
+### Patch Changes
+
+- Updated dependencies
+  - @podcodar/eslint-config-base@1.3.0
+
+## 1.2.0
+
+### Minor Changes
+
+- add react config
+
+### Patch Changes
+
+- Updated dependencies
+  - @podcodar/eslint-config-base@1.2.0
+
 ## 1.1.0
 
 ### Minor Changes
