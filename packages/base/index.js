@@ -1,3 +1,7 @@
 module.exports = {
-  extends: ["prettier", "./rules/eslint"],
+  extends: [
+    "eslint:recommended",
+    "prettier",
+    "./rules/eslint"
+  ],
 };
