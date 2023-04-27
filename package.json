@@ -4,7 +4,8 @@
     "build": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
-    "publish-packages": "turbo run build lint && changeset && changeset version && changeset publish",
+    "bump-packages": "turbo run build lint && changeset && changeset version",
+    "publish-packages": "changeset publish",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {

@@ -1,5 +1,11 @@
 # @podcodar/eslint-config-base
 
+## 1.5.0
+
+### Minor Changes
+
+- add recommended configs for eslint & typescript
+
 ## 1.4.2
 
 ### Patch Changes
