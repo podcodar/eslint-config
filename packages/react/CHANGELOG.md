@@ -1,5 +1,16 @@
 # @podcodar/eslint-config-react
 
+## 1.6.0
+
+### Minor Changes
+
+- update dependencies
+
+### Patch Changes
+
+- Updated dependencies
+  - @podcodar/eslint-config-base@1.6.0
+
 ## 1.5.0
 
 ### Minor Changes

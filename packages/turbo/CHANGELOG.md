@@ -1,5 +1,16 @@
 # @podcodar/eslint-config-turbo
 
+## 1.6.0
+
+### Minor Changes
+
+- update dependencies
+
+### Patch Changes
+
+- Updated dependencies
+  - @podcodar/eslint-config-next@1.6.0
+
 ## 1.5.0
 
 ### Minor Changes

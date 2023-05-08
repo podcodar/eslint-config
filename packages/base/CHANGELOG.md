@@ -1,5 +1,11 @@
 # @podcodar/eslint-config-base
 
+## 1.6.0
+
+### Minor Changes
+
+- update dependencies
+
 ## 1.5.0
 
 ### Minor Changes
